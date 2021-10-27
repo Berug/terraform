@@ -1,0 +1,7 @@
+region                    = "us-east-1"
+vpc_cdir                  = "10.0.0.0/16"
+subnet1_cidr              = "10.0.1.0/24"
+availability_zone_subnet1 = "us-east-1a"
+availability_zone_subnet2 = "us-east-1b"
+availability_zone_subnet3 = "us-east-1c"
+ami_id                    = "ami-02e136e904f3da870"
